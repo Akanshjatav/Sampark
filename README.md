@@ -1,3 +1,3 @@
 # Sampark
 
-####Sampark.org is a Java Spring boot based Web Application
+#### Sampark.org is a Java Spring boot based Web Application
